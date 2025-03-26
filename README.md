@@ -1,24 +1,3 @@
-🧠 Project Overview
-	•	Course: CSCE 689 – Special Topics in Human-AI Interaction
-	•	Title: Bias Detection in AI Algorithms
-	•	Focus: Analyzing age and gender bias in employee attrition prediction using a RandomForest classifier
-	•	Tools Used: Python, sklearn, calibration curves, error analysis
-
-⸻
-
-📦 Suggested GitHub Repository Name
-
-Choose one of these clean and descriptive names:
-	1.	bias-detection-employee-attrition
-	2.	human-ai-bias-analysis
-	3.	ai-bias-detection-age-gender
-	4.	attrition-bias-human-ai
-	5.	✅ Recommended: bias-detection-hr-ml (clear, concise, practical)
-
-⸻
-
-📝 README.md File for This Project
-
 # Bias Detection in AI Algorithms: Age & Gender in Employee Attrition Prediction
 
 This project investigates **bias in machine learning models** with respect to **age and gender**, specifically in the context of employee turnover prediction. Developed as part of **CSCE 689: Human-AI Interaction** at **Texas A&M University**, the project evaluates a **Random Forest classifier** for signs of demographic bias using error rate analysis and calibration curves.
@@ -27,6 +6,7 @@ This project investigates **bias in machine learning models** with respect to **
 
 ## 📁 Repository Structure
 
+<pre>
 bias-detection-hr-ml/
 │
 ├── Code/                      # Jupyter notebook with training, predictions & analysis
@@ -38,7 +18,8 @@ bias-detection-hr-ml/
 ├── Dataset/                   # Dataset used for the project
 │   └── Employee.csv
 │
-└── README.md                  # You’re here!
+└── README.md                  # You're here!
+</pre>
 
 ---
 
